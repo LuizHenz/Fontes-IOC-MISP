@@ -14,6 +14,9 @@ FEEDS = {
     },
     "URLhaus Recent Payloads": {
         "url": "https://urlhaus-api.abuse.ch/v1/payloads/recent/",
+    },
+    "Feodo Tracker": {
+        "url": "https://feodotracker.abuse.ch/downloads/ipblocklist.json",
     }
 }
 
